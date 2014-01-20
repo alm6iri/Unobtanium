@@ -5,7 +5,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Unobtanium</source>
-        <translation>عن Unobtanium</translation>
+        <translation>حول بتكوين</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -20,17 +20,20 @@ This is experimental software.
 Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</source>
-        <translation type="unfinished"/>
+        <translation>هذا برنامج تجريبي
+وزعت بموجب ترخيص البرمجيات MIT/X11، أنظر للنسخه المرفقه أو http://www.opensource.org/licenses/mit-license.php.
+يتضمن هذا المنتج على برنامج تم تطويره من قبل OpenSSL Project لاستخدام مجموعة أدوات OpenSSL http://www.openssl.org
+وبرامج التشفير كتبها اريك يونغ eay@cryptsoft.com وبرمجيات UPnP كتبها توماس برنارد.</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="+14"/>
         <source>Copyright</source>
-        <translation type="unfinished"/>
+        <translation>حقوق النشر</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>The Unobtanium developers</source>
-        <translation type="unfinished"/>
+        <translation>مطورين Unobtanium</translation>
     </message>
 </context>
 <context>
@@ -43,7 +46,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+19"/>
         <source>Double-click to edit address or label</source>
-        <translation>أنقر على الماوس مرتين لتعديل عنوان</translation>
+        <translation>نقرتين لتعديل العنوان أو التسميه</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -58,57 +61,57 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-11"/>
         <source>&amp;New Address</source>
-        <translation type="unfinished"/>
+        <translation>&amp;عنوان جديد</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
         <source>These are your Unobtanium addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation type="unfinished"/>
+        <translation>هذه عناوين Unobtanium الخاصه بك لتلقي المدفوعات. قد ترغب لإعطاء شيء مختلف إلى كل مرسل حتى تتمكن من تتبع الذي دفع لك.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
         <source>&amp;Copy Address</source>
-        <translation type="unfinished"/>
+        <translation>&amp;نسخ العنوان</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation type="unfinished"/>
+        <translation>إظهار &amp;QR Code</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Unobtanium address</source>
-        <translation type="unfinished"/>
+        <translation>التوقيع على الرسالة لإثبات إنك تملك عنوان Unobtanium</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sign &amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>توقيع &amp;رساله</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Delete the currently selected address from the list</source>
-        <translation type="unfinished"/>
+        <translation>حذف العنوان المحدد حالياً من القائمة</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Export the data in the current tab to a file</source>
-        <translation type="unfinished"/>
+        <translation>تصدير هذه البيانات في علامة التبويب الحالية إلى ملف</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Export</source>
-        <translation type="unfinished"/>
+        <translation>&amp;تصدير</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>Verify a message to ensure it was signed with a specified Unobtanium address</source>
-        <translation type="unfinished"/>
+        <translation>التحقق من الرساله لضمان توقيعها مع عنوان Unobtanium محدد</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished"/>
+        <translation>&amp;تحقق من الرساله</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -118,42 +121,42 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
         <source>These are your Unobtanium addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation type="unfinished"/>
+        <translation>هذه عناوين Unobtanium الخاصه بك لإرسال المدفوعات. دائماً تحقق من كمية وعنوان المتلقي قبل إرسال الكوينز.</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Copy &amp;Label</source>
-        <translation type="unfinished"/>
+        <translation>نسخ &amp;تسميه</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;تعديل</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send &amp;Coins</source>
-        <translation type="unfinished"/>
+        <translation>إرسال &amp;كوينز</translation>
     </message>
     <message>
         <location line="+260"/>
         <source>Export Address Book Data</source>
-        <translation type="unfinished"/>
+        <translation>تصدير بيانات دفتر العناوين</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation type="unfinished"/>
+        <translation>مفصولة بفواصل ملف (*.csv)</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Error exporting</source>
-        <translation type="unfinished"/>
+        <translation>خطأ بالتصدير</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation type="unfinished"/>
+        <translation>لا يمكن الكتابة إلى الملف٪ 1.</translation>
     </message>
 </context>
 <context>
@@ -166,12 +169,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>عنوان</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>(no label)</source>
-        <translation type="unfinished"/>
+        <translation>(لايوجد تسميه)</translation>
     </message>
 </context>
 <context>
@@ -184,89 +187,89 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+21"/>
         <source>Enter passphrase</source>
-        <translation type="unfinished"/>
+        <translation>أدخل عبارة مرور</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>New passphrase</source>
-        <translation type="unfinished"/>
+        <translation>عبارة مرور جديده</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Repeat new passphrase</source>
-        <translation type="unfinished"/>
+        <translation>كرر عبارة المرور</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+33"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>أدخل عبارة مرور جديدة إلى المحفظة.&lt;br/&gt;يرجى إستخدام عبارة مرور من &lt;b&gt;10 أو أكثر من الأحرف العشوائيه&lt;/b&gt;, أو &lt;b&gt;ثمانية أو أكثر من الكلمات&lt;/b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt wallet</source>
-        <translation type="unfinished"/>
+        <translation>تشفير المحفظه</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation type="unfinished"/>
+        <translation>هذه العمليه تحتاج لعبارة مرور محفظتك لفتح المحفظه.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation type="unfinished"/>
+        <translation>فتح المحفظه</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation type="unfinished"/>
+        <translation>هذه العمليه تحتاج لعبارة مرور محفظتك لفك تشفير المحفظه.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation type="unfinished"/>
+        <translation>فك تشفير المحفظه</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Change passphrase</source>
-        <translation type="unfinished"/>
+        <translation>تغيير عبارة المرور</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation type="unfinished"/>
+        <translation>أدخل عبارة المرور القديمة والجديده إلى المحفظه.</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm wallet encryption</source>
-        <translation type="unfinished"/>
+        <translation>تأكيد تشفير المحفظه</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZETACOINS&lt;/b&gt;!</source>
-        <translation type="unfinished"/>
+        <translation>تحذير: إذا قمت بتشفير محفظتك وفقدة عبارة المرور الخاصة بك، سوف &lt;b&gt;تفقد جميع الكوينز الخاصه بك&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation type="unfinished"/>
+        <translation>هل أنت متأكد أنك ترغب في تشفير محفظتك؟</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation type="unfinished"/>
+        <translation>هام: أي نسخه إحتياطيه سابقه قمت بها من ملف محفظتك ينبغي إستبداله بالمولده حديثاً, مع ملف المحفظه المشفر. لأسباب أمنيه, والنسخ الإحتياطيه السابقه تصبح عديمة الفائده بمجرد إستخدامك محفظه مشفره جديده.</translation>
     </message>
     <message>
         <location line="+100"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation type="unfinished"/>
+        <translation>تحذير: زر تكبير الحروف يعمل!</translation>
     </message>
     <message>
         <location line="-130"/>
         <location line="+58"/>
         <source>Wallet encrypted</source>
-        <translation type="unfinished"/>
+        <translation>المحفظه مشفرة</translation>
     </message>
     <message>
         <location line="-56"/>
@@ -380,42 +383,42 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Show information about Qt</source>
-        <translation type="unfinished"/>
+        <translation>مزيداً من المعلومات حول كيو تي</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Options...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;الخيارات...</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Encrypt Wallet...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;تشفير المحفظه...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Backup Wallet...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;نسخ المحفظه...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Change Passphrase...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;تغيير عبارة المرور...</translation>
     </message>
     <message>
         <location line="+285"/>
         <source>Importing blocks from disk...</source>
-        <translation type="unfinished"/>
+        <translation>إستيراد كتل من القرص...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Reindexing blocks on disk...</source>
-        <translation type="unfinished"/>
+        <translation>إعادة فهرسة الكتل في القرص...</translation>
     </message>
     <message>
         <location line="-347"/>
         <source>Send coins to a Unobtanium address</source>
-        <translation type="unfinished"/>
+        <translation>إرسال كوينز إلى عنوان بتكوين</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -435,7 +438,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+6"/>
         <source>&amp;Debug window</source>
-        <translation type="unfinished"/>
+        <translation>&amp;نافذة التصحيح</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -445,7 +448,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-4"/>
         <source>&amp;Verify message...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;التحقق من الرساله...</translation>
     </message>
     <message>
         <location line="-165"/>
@@ -461,17 +464,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+101"/>
         <source>&amp;Send</source>
-        <translation type="unfinished"/>
+        <translation>&amp;إرسال</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Receive</source>
-        <translation type="unfinished"/>
+        <translation>&amp;تلقي</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>&amp;Addresses</source>
-        <translation type="unfinished"/>
+        <translation>&amp;العناوين</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -506,22 +509,22 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+28"/>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ملف</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Settings</source>
-        <translation type="unfinished"/>
+        <translation>&amp;إعدادات</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;مساعده</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Tabs toolbar</source>
-        <translation type="unfinished"/>
+        <translation>شريط علامات التبويب</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -532,27 +535,27 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+47"/>
         <source>Unobtanium client</source>
-        <translation type="unfinished"/>
+        <translation>عميل Unobtanium</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
         <source>%n active connection(s) to Unobtanium network</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation>%n إتصال/ات نشطه لشبكة Unobtanium</translation><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
         <source>No block source available...</source>
-        <translation type="unfinished"/>
+        <translation>عدم وجود مصدر كتله متاح...</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Processed %1 of %2 (estimated) blocks of transaction history.</source>
-        <translation type="unfinished"/>
+        <translation>معالجة %1 من %2 مقدر كتل من تاريخ المعاملة.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Processed %1 blocks of transaction history.</source>
-        <translation type="unfinished"/>
+        <translation>معالجة %1 كتل من تاريخ المعامله.</translation>
     </message>
     <message numerus="yes">
         <location line="+20"/>
@@ -791,22 +794,22 @@ Address: %4
     <message>
         <location filename="../forms/optionsdialog.ui" line="+14"/>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>خيارات</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>&amp;Main</source>
-        <translation type="unfinished"/>
+        <translation>&amp;رئيسيه</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB.</source>
-        <translation type="unfinished"/>
+        <translation>رسوم المعاملات إختيارية لكل كيلوبايت التي تساعد على التأكد من معالجة المعاملات الخاصة بك بسرعة. معظم المعاملات هي 1 كيلوبايت.</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Pay transaction &amp;fee</source>
-        <translation type="unfinished"/>
+        <translation>دفع رسوم &amp;الصفقه</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -816,22 +819,22 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>&amp;Start Unobtanium on system login</source>
-        <translation type="unfinished"/>
+        <translation>&amp;تشغيل البرنامج عند تشغيل النظام</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Reset all client options to default.</source>
-        <translation type="unfinished"/>
+        <translation>إعادة تعيين كافة خيارات العميل إلى الافتراضي.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Reset Options</source>
-        <translation type="unfinished"/>
+        <translation>&amp;إعادة تعيين الخيارات</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>&amp;Network</source>
-        <translation type="unfinished"/>
+        <translation>&amp;الشبكه</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -841,7 +844,7 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>Map port using &amp;UPnP</source>
-        <translation type="unfinished"/>
+        <translation>منفذ الخريطه يستخدم &amp;UPnP</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -851,32 +854,32 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>&amp;Connect through SOCKS proxy:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;الإتصال من خلال وكيل SOCKS:</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Proxy &amp;IP:</source>
-        <translation type="unfinished"/>
+        <translation>الوكيل &amp;عنوان:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>IP address of the proxy (e.g. 127.0.0.1)</source>
-        <translation type="unfinished"/>
+        <translation>عنوان أي بي الوكيل مثل 127.0.0.1</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Port:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;منفذ:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation type="unfinished"/>
+        <translation>منفذ الوكيل مثلاً 9050</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>SOCKS &amp;Version:</source>
-        <translation type="unfinished"/>
+        <translation>إصدار &amp;SOCKS:</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -886,17 +889,17 @@ Address: %4
     <message>
         <location line="+36"/>
         <source>&amp;Window</source>
-        <translation type="unfinished"/>
+        <translation>&amp;نافذه</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation type="unfinished"/>
+        <translation>إظهار ايقونه مصغره فقط بعد تصغير النافذه</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation type="unfinished"/>
+        <translation>&amp;تصغير البرنامج إلى جانب الساعه بدلاً من شريط المهام</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -906,17 +909,17 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>M&amp;inimize on close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;تصغير عند الإغلاق</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>&amp;Display</source>
-        <translation type="unfinished"/>
+        <translation>&amp;العرض</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>User Interface &amp;language:</source>
-        <translation type="unfinished"/>
+        <translation>لغة &amp;واجهت المستخدم:</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -926,7 +929,7 @@ Address: %4
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;وحدة إظهار المبالغ::</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -936,37 +939,37 @@ Address: %4
     <message>
         <location line="+9"/>
         <source>Whether to show Unobtanium addresses in the transaction list or not.</source>
-        <translation type="unfinished"/>
+        <translation>سواء لإظهار عناوين Unobtanium في قائمة المعاملات أم لا.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Display addresses in transaction list</source>
-        <translation type="unfinished"/>
+        <translation>&amp;عرض العناوين في قائمة الصفقة</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp;موافق</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;إلغاء</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>&amp;Apply</source>
-        <translation type="unfinished"/>
+        <translation>&amp;تطبيق</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="+53"/>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>الإفتراضي</translation>
     </message>
     <message>
         <location line="+130"/>
         <source>Confirm options reset</source>
-        <translation type="unfinished"/>
+        <translation>تأكيد إعادة تعيين الخيارات</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1001,7 +1004,7 @@ Address: %4
     <message>
         <location filename="../forms/overviewpage.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>نوع</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1012,17 +1015,17 @@ Address: %4
     <message>
         <location line="-124"/>
         <source>Balance:</source>
-        <translation type="unfinished"/>
+        <translation>الرصيد:</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Unconfirmed:</source>
-        <translation type="unfinished"/>
+        <translation>غير مؤكده:</translation>
     </message>
     <message>
         <location line="-78"/>
         <source>Wallet</source>
-        <translation type="unfinished"/>
+        <translation>محفظه</translation>
     </message>
     <message>
         <location line="+107"/>
@@ -1037,12 +1040,12 @@ Address: %4
     <message>
         <location line="+46"/>
         <source>&lt;b&gt;Recent transactions&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;المعاملات الأخيره&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="-101"/>
         <source>Your current balance</source>
-        <translation type="unfinished"/>
+        <translation>رصيدك الحالي</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1053,7 +1056,7 @@ Address: %4
         <location filename="../overviewpage.cpp" line="+116"/>
         <location line="+1"/>
         <source>out of sync</source>
-        <translation type="unfinished"/>
+        <translation>خارج المزامنه</translation>
     </message>
 </context>
 <context>
@@ -1074,22 +1077,22 @@ Address: %4
     <message>
         <location line="+59"/>
         <source>Request Payment</source>
-        <translation type="unfinished"/>
+        <translation>طلب الدفع</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Amount:</source>
-        <translation type="unfinished"/>
+        <translation>المبلغ:</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>Label:</source>
-        <translation type="unfinished"/>
+        <translation>تسميه</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Message:</source>
-        <translation type="unfinished"/>
+        <translation>الرسالة:</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1301,12 +1304,12 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>Clear &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>إزالة &amp;الكل</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Balance:</source>
-        <translation type="unfinished"/>
+        <translation>الرصيد:</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1316,12 +1319,12 @@ Address: %4
     <message>
         <location line="+31"/>
         <source>Confirm the send action</source>
-        <translation type="unfinished"/>
+        <translation>تأكيد إجراء الإرسال</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>S&amp;end</source>
-        <translation type="unfinished"/>
+        <translation>&amp;إرسال</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-59"/>
@@ -1331,7 +1334,7 @@ Address: %4
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation type="unfinished"/>
+        <translation>تأكيد إرسال الكوينز</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1389,12 +1392,12 @@ Address: %4
     <message>
         <location line="+15"/>
         <source>A&amp;mount:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;المبلغ:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Pay &amp;To:</source>
-        <translation type="unfinished"/>
+        <translation>دفع &amp;إلى:</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -1453,7 +1456,7 @@ Address: %4
     <message>
         <location line="+13"/>
         <source>&amp;Sign Message</source>
-        <translation type="unfinished"/>
+        <translation>&amp;توقيع رساله</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1515,7 +1518,7 @@ Address: %4
     <message>
         <location line="+14"/>
         <source>Reset all sign message fields</source>
-        <translation type="unfinished"/>
+        <translation>إعادة تعيين كافة حقول توقيع الرساله</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1526,7 +1529,7 @@ Address: %4
     <message>
         <location line="-87"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished"/>
+        <translation>&amp;التحقق من رساله</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1896,12 +1899,12 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>Generated but not accepted</source>
-        <translation type="unfinished"/>
+        <translation>اُنتجت ولكن لم تقبل</translation>
     </message>
     <message>
         <location line="+43"/>
         <source>Received with</source>
-        <translation type="unfinished"/>
+        <translation>تلقي مع</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2146,7 +2149,7 @@ Address: %4
     <message>
         <location line="+193"/>
         <source>Backup Wallet</source>
-        <translation type="unfinished"/>
+        <translation>محفظه احتياطيه</translation>
     </message>
     <message>
         <location line="+0"/>
